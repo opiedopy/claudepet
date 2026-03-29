@@ -4,7 +4,7 @@
 //  — this triggers the update banner automatically.
 // ─────────────────────────────────────────────
 
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME    = `petshop-${CACHE_VERSION}`;
 
 // Files to precache on install
