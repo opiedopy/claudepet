@@ -3,7 +3,7 @@
 //  Bump CACHE_VERSION on every deploy to trigger the update banner.
 // ─────────────────────────────────────────────
 
-const CACHE_VERSION = 'v8';
+const CACHE_VERSION = 'v9-gem;
 const CACHE_NAME    = `petshop-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
